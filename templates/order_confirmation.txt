@@ -1,0 +1,3 @@
+Subject: Thank you for your order!
+
+Hi {{customer_name}}, your order #{{order_id}} is confirmed.
